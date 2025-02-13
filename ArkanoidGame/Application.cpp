@@ -1,7 +1,7 @@
 #include "Application.h"
 #include <cstdlib>
 
-namespace ArkanoidGame
+namespace XYZRoguelike
 {
 	Application& Application::Instance()
 	{

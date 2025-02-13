@@ -5,7 +5,7 @@
 #include "IDelayedAction.h"
 #include "IObserver.h"
 
-namespace ArkanoidGame
+namespace XYZRoguelike
 {
 	class Block : public GameObject, public Colladiable, public IObservable
 	{
