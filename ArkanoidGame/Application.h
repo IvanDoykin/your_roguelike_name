@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include "Game.h"
 
-namespace ArkanoidGame {
+namespace XYZRoguelike {
 	
 	class Application
 	{
